@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tomtgreenwood/](https://www.linkedin.com/in/tomtgreenwood/)
 
-- ⚡ Fun fact **I know a tongue twister in Catalan.**
+- ⚡ Fun fact **I know a few tongue twisters in Catalan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
