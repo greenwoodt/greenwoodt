@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Afliar**
+- 👯 I’m looking to collaborate on **Afliar** & **Movie-Watch-List**
 
 - 🌍 I speak English and Spanish
 
