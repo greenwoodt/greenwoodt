@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tom!</h1>
 <h3 align="center">A passionate full-stack developer based in Barcelona, Spain.</h3>
 
-- 🔭 I’m currently working on [LocalExplorer](https://www.localexplorer.me)
+- 🔭 I’m currently working on [LocalExplorer](https://www.localexplorer.me) & **Movie-Watch-List**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Afliar** & **Movie-Watch-List**
+- 👯 I’m looking to collaborate on **Afliar** 
 
 - 🌍 I speak English and Spanish
 
