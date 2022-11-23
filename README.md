@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tom.t.greenwood@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/tomtgreenwood](https://www.linkedin.com/in/tomtgreenwood/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tomtgreenwood](https://www.linkedin.com/in/tomtgreenwood/)
 
 - ⚡ Fun fact **I know a tongue twister in Catalan.**
 
