@@ -9,7 +9,7 @@
 
 - 🌍 I speak [English and Spanish](English and Spanish)
 
-- 📝 My CV is avaliable here [https://files.cargocollective.com/c692821/Tom-1-pager-CV.pdf](https://files.cargocollective.com/c692821/Tom-1-pager-CV.pdf)
+- 📝 My CV is avaliable here [[https://files.cargocollective.com/c692821/Tom-1-pager-CV.pdf](https://files.cargocollective.com/c692821/Tom-Greenwood-CV-one-page.pdf)]
 
 - 💬 Ask me about **Ruby on Rails and photography!**
 
