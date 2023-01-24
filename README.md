@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Movie-Watch-List**
 
-- 🌱 I’m currently learning **React and Liquid**
+- 🌱 I’m currently learning **Vue and Liquid**
 
 - 👯 I’m looking to collaborate on **Afliar**
 
