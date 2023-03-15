@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Afliar**
 
-- 🌍 I speak [English and Spanish]()
+- 🌍 I speak **English and Spanish**
 
 - 📝 My CV is avaliable here https://files.cargocollective.com/c692821/TG_CV.pdf
 
