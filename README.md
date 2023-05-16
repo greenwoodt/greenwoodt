@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom!</h1>
-<h3 align="center">A passionate full-stack developer based in Barcelona, Spain.</h3>
+<h3 align="center">A full-stack Rails developer based in Barcelona, Spain.</h3>
 
 - 🔭 I’m currently working on **Movie-Watch-List**
 
