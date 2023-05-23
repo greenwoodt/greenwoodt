@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom!</h1>
-<h3 align="center">A full-stack Rails developer for Decidim.org based in Barcelona, Spain.</h3>
+<h3 align="center">I am a full-stack Rails developer for Decidim.org based in Barcelona, Spain.</h3>
 
 - 🌱 I’m currently learning **Vue.js**
 
