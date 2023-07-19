@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom!</h1>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 <h3 align="center">I'm a full-stack Rails developer for Decidim.org based in Barcelona, Spain.</h3>
 
 - 🌱 I’m currently learning **Vue.js**
@@ -18,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tomtgreenwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomtgreenwood" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tom-greenwood-a037ba85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tom-greenwood-a037ba85/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tom-greenwood-a037ba85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomtgreenwood/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
