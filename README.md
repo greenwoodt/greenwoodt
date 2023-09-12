@@ -1,4 +1,4 @@
-# 💫 Hello there!! I'm Tom!!
+# 💫 Hello there! I'm Tom!
 🔭 I'm working with Decidim!<br>🌍 I speak English and Spanish<br>💬 Ask me about RoR and photography<br>📬 You can reach me at: tom.t.greenwood@gmai.com<br>⚡️ I know a tongue twister in Catalan!
 
 
